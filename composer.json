@@ -1,6 +1,6 @@
 {
     "name": "moment/moment",
-    "description": "Parse, validate, manipulate, and display dates in JavaScript.",
+    "description": "Parse, validate, manipulate, and display dates in javascript.",
     "keywords": [
         "moment",
         "date",
