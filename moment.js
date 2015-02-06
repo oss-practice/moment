@@ -2246,6 +2246,9 @@
                 } else if (units === 'quarter') {
                     output = output / 3;
                 }
+                else if (units === 'quarter') {
+                    output = output / 3;
+                }
             } else {
                 diff = (this - that);
                 output = units === 'second' ? diff / 1e3 : // 1000
